@@ -1,13 +1,17 @@
-
 # K_Board
 
-Project keyboard RGB custom with uma display.
+Project 65% keyboard RGB custom, based in the QMK Firmware with uma display.
 
 
 ## Note
 
 Project in development
 
+## Features Hardware
+
+- 256 GPIO digitais.
+- Rotery Encode Switch.
+- Display, Show menu options.
 
 ## Licença
 
@@ -17,4 +21,3 @@ Project in development
 ## Autores
 
 - [@kaioluanro](https://github.com/kaioluanro)
-
